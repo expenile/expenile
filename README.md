@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=expenile&label=Profile%20views&color=0e75b6&style=flat" alt="expenile" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expenile" alt="expenile" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/expenile](https://github.com/expenile)
 
-- 💬 Ask me about **Web Development and Machine Learning**
+- 💬 Ask me about **Web Development and**
 
 - 📫 How to reach me **expenilesh31@gmail.com**
 
@@ -28,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=expenile&show_icons=true&locale=en" alt="expenile" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=expenile&" alt="expenile" /></p>
+
