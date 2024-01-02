@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/expenile](https://github.com/expenile)
 
-- 💬 Ask me about **Web Development and**
+- 💬 Ask me about **Web Development and College Life**
 
 - 📫 How to reach me **expenilesh31@gmail.com**
 
