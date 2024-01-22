@@ -1,3 +1,6 @@
+<center>
+    <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="Web Developer Image" style="width: 100%; height: 50%; object-fit: cover; margin: auto;">
+  </center>
 
   <h1 align="center" style="animation: fadeIn 2s; margin-top: -50px;">Hi 👋, I'm <span style="color: #3498db;">Nilesh Pal</span></h1>
   <!-- (rest of your HTML content) -->
