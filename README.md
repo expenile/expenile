@@ -1,8 +1,12 @@
-<div style="width:100%; height:100vh; position:relative; overflow:hidden;">
-  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Web Developer Image" style="width:100%; height:100%; position:absolute; object-fit: cover;">
-</div>
+<center>
+  <div style="width: 100%; height: 700px; position: relative; overflow: hidden; display: flex; justify-content: center; align-items: flex-start;">
+    <img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" alt="Web Developer Image" style="width: 100%; height: 100%; object-fit: cover; margin: auto;">
+  </div>
 
-<h1 align="center" style="animation: fadeIn 2s; margin-top: -50px;">Hi 👋, I'm <span style="color: #3498db;">Nilesh Pal</span></h1>
+  <h1 align="center" style="animation: fadeIn 2s; margin-top: -50px;">Hi 👋, I'm <span style="color: #3498db;">Nilesh Pal</span></h1>
+  <!-- (rest of your HTML content) -->
+</center>
+
 <h3 align="center">🌐 Aspiring Web Developer & IT Engineering Student: Nurturing a Diverse Skill Set for Digital Innovation 🚀💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=expenile&label=Profile%20views&color=0e75b6&style=flat" alt="expenile" /> </p>
