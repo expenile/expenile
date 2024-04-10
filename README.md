@@ -10,8 +10,7 @@ I'm currently pursuing a Bachelor's in Engineering with a focus on Information T
 * 🤝  I'm open to collaborating on Heavy backend websites powered with Artificial Intelligence & Machine Learning
 * ⚡  Fun fact I believe I have a knack for cracking incredibly hilarious jokes.
 
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
