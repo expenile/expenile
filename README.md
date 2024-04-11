@@ -2,9 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=3000&pause=1000&color=7FF779&center=false&vCenter=true&multiline=true&random=false&width=1000&lines=Aspiring+Software+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%F0%9F%A4%96+%26+IT+Engineering+Student%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
 
 
+
 I'm currently pursuing a Bachelor's in Engineering with a focus on Information Technology, and I've embarked on a fascinating journey into the realms of web development and AI/ML. With a passion for creating innovative solutions and a keen interest in the ever-evolving field of technology, I aim to leverage my skills to develop projects that make a difference.
 
-* 🌍  I'm based in Mumbai
+* 🌍  I'm based in Mumbai <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Image" align="right" width="390" height="210">
+
 * ✉️  You can contact me at [expenilesh31@gmail.com](mailto:expenilesh31@gmail.com)
 * 🧠  I'm learning Backend and Gen AI
 * 🤝  I'm open to collaborating on Heavy backend websites powered with Artificial Intelligence & Machine Learning
