@@ -1,10 +1,21 @@
+<p align="center">
+    <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e47rrvrm8qgi34ai4oo5rs5endezox621cfrfb0vaa1&rid=giphy.gif&ct=g" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=2000&pause=1000&color=D6F720&center=false&multiline=true&random=false&width=800&lines=Welcome!%F0%9F%99%8F+My+name+is+Nilesh+Pal%F0%9F%99%82;Aspiring+Software+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%F0%9F%A4%96+%26+IT+Engineering+Student%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=3000&pause=1000&color=7FF779&center=false&vCenter=true&multiline=true&random=false&width=1000&lines=Aspiring+Software+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%F0%9F%A4%96+%26+IT+Engineering+Student%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
 
+- 👨‍💻 **About Me**
+  - 🔭 I'm currently working on various projects that include working with Next.js, React.js, Routing, APIs, Authentication, Dashboard creation, Website Styling and Animation, Integration of Machine Learning into Websites, and especially Data Structures and Algorithms (DSA) and its association and application in real-world products.
+  - 🌱 I'm currently learning DevOps, Machine Learning, General AI and related terminologies like LLM, RAG, Langchain, and keeping myself updated with the trends and technologies involved in the Web and AI domain.
+  - 💬 Ask me about the mistakes I made before delving into development and DSA.
+  - ⚡ Fun fact: I believe I have a knack for cracking incredibly hilarious jokes.
 
+- 🤝 **Collaboration**
+  - 🤝 I'm looking to collaborate and gain experience on real-world development trends by solving them through development.
 
-# 💫 About Me:
-<br>🔭 I'm currently working on various projects that include working with **Next.js**, **React.js**, **Routing**, **APIs**, **Authentication**, **Dashboard creation**, **Website Styling and Animation**, **Integration of Machine Learning into Websites**, and especially **Data Structures and Algorithms (DSA)** and its association and application in real-world products.<br><br>🌱 I'm currently learning **DevOps**, **Machine Learning**, **General AI** and related terminologies like **LLM**, **RAG**, **Langchain**, and keeping myself updated with the trends and technologies involved in the **Web** and **AI** domain.<br><br>💬 Ask me about the mistakes I made before delving into development and DSA.<br><br>⚡ Fun fact: I believe I have a knack for cracking incredibly hilarious jokes.<br><br> ##🤝 Collaboration<br><br>🤝 I'm looking to collaborate and gain experience on real-world development trends by solving them through development.<br><br>## 📫 Contact Me<br><br>✉️ You can contact me at [expenilesh31@gmail.com](mailto:expenilesh31@gmail.com)
+- 📫 **Contact Me**
+  - ✉️ You can contact me at [expenilesh31@gmail.com](mailto:expenilesh31@gmail.com)
 
 
 ## 🌐 Socials:
