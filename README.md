@@ -6,10 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=3000&pause=1000&color=7FF779&center=false&vCenter=true&multiline=true&random=false&width=1000&lines=Aspiring+Software+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%F0%9F%A4%96+%26+IT+Engineering+Student%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
 
 - 👨‍💻 **About Me**
-  - 🔭 I'm currently working on various projects that include working with Next.js, React.js, Routing, APIs, Authentication, Dashboard creation, Website Styling and Animation, Integration of Machine Learning into Websites, and especially Data Structures and Algorithms (DSA) and its association and application in real-world products.
-  - 🌱 I'm currently learning DevOps, Machine Learning, General AI and related terminologies like LLM, RAG, Langchain, and keeping myself updated with the trends and technologies involved in the Web and AI domain.
-  - 💬 Ask me about the mistakes I made before delving into development and DSA.
-  - ⚡ Fun fact: I believe I have a knack for cracking incredibly hilarious jokes.
+    - 🔭 I'm currently working on various projects that include working with **Next.js**, **React.js**, **Routing**, **APIs**, **Authentication**, **Dashboard creation**, **Website Styling and Animation**, **Integration of Machine Learning into Websites**, and especially **Data Structures and Algorithms (DSA)** and its association and application in real-world products.
+    - 🌱 I'm currently learning **DevOps**, **Machine Learning**, **Generative AI** and related terminologies like **LLM**, **RAG**, **Langchain**, and keeping myself updated with the trends and technologies involved in the Web and AI domain.
+    - 💬 Ask me about the mistakes I made before delving into development and DSA.
+    - ⚡ Fun fact: I believe I have a knack for cracking incredibly hilarious jokes.
 
 - 🤝 **Collaboration**
   - 🤝 I'm looking to collaborate and gain experience on real-world development trends by solving them through development.
