@@ -37,6 +37,7 @@ I am an engineering student interested in development and have built various pro
 - Real-time features
 - Machine Learning (ML) and Artificial Intelligence (AI)
 - Integration of ML and AI with development
+- Python along with Django and Flask
 
 ---
 
